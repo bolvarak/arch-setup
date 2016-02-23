@@ -69,3 +69,5 @@ perl-data-dump
 perl-config-simple
 wget
 gdm
+gnome-tweak-tool
+firefox
