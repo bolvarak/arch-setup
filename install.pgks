@@ -71,3 +71,8 @@ wget
 gdm
 gnome-tweak-tool
 firefox
+xf86-input-synaptics
+xf86-input-mouse
+xf86-input-evdev
+xf86-input-keyboard
+moka-icon-theme-git
