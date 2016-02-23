@@ -1,0 +1,2 @@
+//10.10.10.65/websites				/var/websites	cifs	credentials=/home/tbrown/.smb-credentials,x-systemd.automount,uid=tbrown,gid=tbrown	0	0
+//10.10.10.65/multimedia			/srv/multimedia	cifs	credentials=/home/tbrown/.smb-credentials,x-systemd.automount,uid=tbrown,gid=tbrown	0	0
